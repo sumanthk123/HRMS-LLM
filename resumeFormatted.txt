@@ -1,0 +1,67 @@
+Resume: 
+
+Objective:
+Enthusiastic and highly motivated Software Engineer with a strong foundation in computer science and a passion for solving complex problems. Seeking a challenging position that allows me to leverage my skills and experience to create innovative software solutions.
+
+Skills:
+Programming Languages: Python, Java, C++, JavaScript
+Web Development: HTML, CSS, React, Node.js
+Database Management: SQL, MongoDB
+Software Development: Agile, Scrum, Git, CI/CD
+Tools & Frameworks: Django, Flask, Spring Boot, Express.js
+Version Control: Git, GitHub
+Data Structures and Algorithms
+Problem Solving
+Object-Oriented Design
+Linux/Unix Proficiency
+UI/UX Design
+Team Collaboration
+Strong Communication Skills
+
+Education:
+Bachelor of Science in Computer Science
+[University Name], [City, State]
+[Month Year] - [Month Year]
+
+Relevant Courses:
+
+Data Structures and Algorithms
+Object-Oriented Programming
+Web Development
+Databases
+Software Engineering
+Operating Systems
+Professional Experience:
+Software Engineer Intern
+[Company Name], [City, State]
+[Month Year] - [Month Year]
+
+Collaborated with the development team to design, implement, and test features for a web-based inventory management system.
+Utilized Python and Django to develop RESTful APIs, improving data retrieval and processing efficiency.
+Worked with the front-end team to integrate responsive web design and enhance the user experience.
+Implemented user authentication and access control mechanisms to ensure data security.
+Participated in code reviews and provided valuable feedback to maintain code quality.
+Software Developer
+[Another Company Name], [City, State]
+[Month Year] - [Month Year]
+
+Developed and maintained Java-based applications for automated data analysis, saving the company 30% in processing time.
+Collaborated with cross-functional teams to gather requirements, design solutions, and implement features.
+Improved application performance by optimizing database queries and reducing API response times.
+Led the transition to a microservices architecture, enhancing system scalability and maintainability.
+Introduced and maintained a continuous integration pipeline, ensuring code quality and test coverage.
+Personal Projects:
+E-commerce Website
+
+Designed and implemented a full-stack e-commerce website using the MERN (MongoDB, Express.js, React, Node.js) stack.
+Integrated payment gateways and user authentication for a secure and seamless shopping experience.
+Implemented product recommendations and a user-friendly interface.
+Task Management App
+
+Created a task management application with React and Node.js for personal productivity.
+Utilized Redux for state management and designed an intuitive user interface for easy task organization.
+Implemented user authentication, user roles, and real-time updates using WebSockets.
+Machine Learning Chatbot
+
+Developed a chatbot using Python and natural language processing libraries.
+Trained the chatbot using machine learning algorithms to answer user queries and engage in meaningful conversations.

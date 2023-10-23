@@ -1,0 +1,12 @@
+Job Description: 
+
+You are an innovator, builder, and tinkerer looking to grow in your career. You are looking for an opportunity to show off your breadth of skills from several disciplines while developing new ones. You want to work with a global team of technology enthusiasts and design pioneers.  
+
+You will need a combination of some (not all) of the qualifications listed below. 
+
+Completion of 2+ years of study   
+Enrollment in BS/MS/PhD degree for Electrical Engineering, Computer Engineering, Computer Electrical Engineering, or Computer Science  
+Skills: Python, Java, C, C#, C++, Node JS, JavaScript, VueJS, React, Angular, Jenkins, SonarQube, Terraform, Docker, Git, Jira, Linux/MacOS/Windows, web development tools and frameworks  
+Coursework, projects, and/or internship experience: database and data management, object-oriented programming, IoT, MCUs, semiconductors, SoCs, and embedded devices  
+Previous employment experience or knowledge: software engineering processes such requirements, design, implementation, testing, deployment, building back-end web services, automated test environments for hardware validation, software QA, simulations, scripting, JTAG, UI, UX, TCP/IP Networking, Bluetooth, Zigbee, or Z-Wave 
+Extracurricular activities within organizations a plus 
